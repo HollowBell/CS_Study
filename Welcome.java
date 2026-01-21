@@ -1,0 +1,8 @@
+package onebyone;
+
+public class Welcome {
+	public static void main(String[] args) {
+		System.out.println("Welcome!!");
+		System.out.println("자바 세계에 오신 것을 환영 합니다.");
+	}
+}
